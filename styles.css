@@ -1,1 +1,11 @@
 /* your code */
+th,td {
+	padding: 20px;
+	border: solid black 5px;
+}
+th {
+	background-color: blue;
+}
+td {
+	background-color: darkorange;
+}
